@@ -26,8 +26,3 @@ Check out the full implementation video here:
 - ⚡ [Next.js](https://nextjs.org/)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
 - 🔄 React Hooks (`useState`, `useEffect`)
-
----
-
-## 📂 Project Structure
-
